@@ -38,13 +38,11 @@
 
 ## 📫 Контакты и ссылки
 
-- 📧 Почта: [ваша почта](mailto:zubairofframis@yandex.ru)
-- 🐦 Telegram: [@ваш_ник](https://t.me/RamaZubik)
+- 📧 Почта: [zubairofframis@yandex.ru](mailto:zubairofframis@yandex.ru)
+- 🐦 Telegram: [@RamaZ](https://t.me/RamaZubik)
 - 🏢 GitHub: [github.com/RamisZubairov](https://github.com/RamisZubairov)
 
 📍 Москва, Россия  
-🕒 [текущее время, например 22:13]
-
 ---
 
 ## 📊 Активность
