@@ -2,10 +2,6 @@
 
 Я студент РТУ МИРЭА, 1 курс по направлению «Программная инженерия». Мой основной стек — **Python** (включая **Django**) и **Java**.
 
-<!-- Карточки статистики (подставлен ваш ник) -->
-![RamisZubairov GitHub stats](https://github-readme-stats.vercel.app/api?username=RamisZubairov&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamisZubairov&layout=compact&theme=radical)
-
 ---
 
 ## О себе
