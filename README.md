@@ -1,12 +1,12 @@
 # Привет, меня зовут — Рамис Зубаиров aka RamaZ
 
-Я студент РТУ МИРЭА, 1 курс по направлению «Программная инженерия». Мой основной стек — **Python** и **Java**.
+Я студент РТУ МИРЭА, 1 курс по направлению «Программная инженерия». Мой основной стек — **Python** и **Go**.
 
 ---
 
 ## О себе
 
-Я начинающий разработчик, увлекаюсь Python и Java(только вкатываюсь). Активно изучаю современные подходы к разработке, паттерны проектирования и базы данных. Люблю писать чистый, тестируемый код и разбираться в устройстве фреймворков. Хочу стать backend-developer.
+Я начинающий разработчик, увлекаюсь Python и Go (только вкатываюсь). Активно изучаю современные подходы к разработке, паттерны проектирования. Люблю писать чистый, тестируемый код и разбираться в устройстве фреймворков. Хочу стать backend-developer. В ближайших планах — освоить базы данных (PostgreSQL), систему контроля версий Git и контейнеризацию с Docker.
 
 ---
 
@@ -18,13 +18,19 @@
 
 ---
 
-## 🛠 Технологии и инструменты
+## 🛠 Текущий стек
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+---
+
+## 📈 Планы по изучению
+
+- **Базы данных** (PostgreSQL)
+- **Система контроля версий** (Git)
+- **Контейнеризация** (Docker)
+- Углублённое изучение Go и написание микросервисов
 
 ---
 
