@@ -37,7 +37,7 @@
 ## 📫 Контакты и ссылки
 
 - 📧 Почта: [zubairofframis@yandex.ru](mailto:zubairofframis@yandex.ru)
-- 🐦 Telegram: [@RamaZ](https://t.me/RamaZubik)
+- 🐦 Telegram: [@RamaZubik](https://t.me/RamaZubik)
 - 🏢 GitHub: [github.com/RamisZubairov](https://github.com/RamisZubairov)
 
 📍 Москва, Россия  
