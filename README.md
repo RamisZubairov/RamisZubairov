@@ -45,10 +45,7 @@
 
 ## 📊 Активность
 
-<!-- Счётчик просмотров профиля -->
-![Profile views](https://komarev.com/ghpvc/?username=RamisZubairov&color=blue)
-
-<!-- График активности -->
+<!-- График активности за последние 31 день -->
 [![RamisZubairov's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RamisZubairov&theme=github)](https://github.com/RamisZubairov)
 
 ---
