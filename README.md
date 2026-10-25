@@ -56,12 +56,3 @@
 - 🏢 **GitHub:** [github.com/RamisZubairov](https://github.com/RamisZubairov)
 - 📍 **Москва, Россия**
 
----
-
-## 📊 Активность
-
-![RamisZubairov's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamisZubairov&theme=react-dark)
-
----
-
-✨ *Этот README создан специально для моего профиля и отражает мои текущие навыки и интересы.*
