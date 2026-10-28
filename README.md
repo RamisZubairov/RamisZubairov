@@ -1,4 +1,4 @@
-<img align="right" src="file:///C:/Users/Acer/Downloads/i%20(4).webp" width="180" style="border-radius: 8px; margin-left: 20px;" />
+<img align="right" src="i (4).webp" width="180" style="border-radius: 8px; margin-left: 20px;" />
 
 # Hi, I'm Ramis
 
