@@ -8,7 +8,7 @@
 
 🎯 **Хочу стать backend-developer**. В ближайших планах — освоить базы данных, систему контроля версий и контейнеризацию.
 
-[Software Engineer '28 @ РТУ МИРЭА](https://mirea.ru)
+[Software Engineer '30 @ РТУ МИРЭА](https://mirea.ru)
 
 <br clear="right"/>
 
