@@ -1,52 +1,58 @@
-<img align="right" src="https://placekitten.com/200/200" width="180" style="border-radius: 10px; margin-left: 20px;" />
+<img align="right" src="https://placekitten.com/200/200" width="180" style="border-radius: 8px; margin-left: 20px;" />
 
 # Hi, I'm Ramis
 
-**Python & Go Developer | Software Engineering Student**
+### Python & Go Developer | Software Engineering Student
 
 Я начинающий разработчик, увлекаюсь **Python** и **Go** (только вкатываюсь). Активно изучаю современные подходы к разработке, паттерны проектирования. Люблю писать чистый, тестируемый код и разбираться в устройстве фреймворков.
 
-[Software Engineer @ РТУ МИРЭА (09.03.04) - 1 курс](#)
+🎯 **Хочу стать backend-developer**. В ближайших планах — освоить базы данных, систему контроля версий и контейнеризацию.
+
+[Software Engineer '28 @ РТУ МИРЭА](https://mirea.ru)
 
 <br clear="right"/>
 
-## Tech Stack
+---
 
+### Tech Stack
+
+---
 ### Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+<div>
+  <img src="https://img.shields.io/badge/-PYTHON-2d333b?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GO-2d333b?style=for-the-badge&logo=go&logoColor=white" />
+</div>
+
+---
 ### Data
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<div>
+  <img src="https://img.shields.io/badge/-POSTGRESQL-2d333b?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+---
 ### Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<div>
+  <img src="https://img.shields.io/badge/-DOCKER-2d333b?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GIT-2d333b?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
 ### Testing & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<div>
+  <img src="https://img.shields.io/badge/-LINUX-2d333b?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-POSTMAN-2d333b?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
 
-## 📈 Планы по изучению
-
-- Базы данных (**PostgreSQL**)
-- Система контроля версий (**Git**)
-- Контейнеризация (**Docker**)
-- Углублённое изучение **Go** и написание микросервисов
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamisZubairov&show_icons=true&theme=radical&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&bg_color=0d1117&hide_border=true" alt="Ramis's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisZubairov&layout=compact&theme=radical&title_color=2f81f7&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<br>
 
 ---
 
 <div align="center">
-  <h2>Contact with me</h2>
+  <h3>Contact with me</h3>
   <a href="https://t.me/RamaZubik">
     <img src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
