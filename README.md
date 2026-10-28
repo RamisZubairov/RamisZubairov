@@ -36,6 +36,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamisZubairov&show_icons=true&theme=dark&bg_color=0D1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&hide_border=true" width="48%" alt="Ramis's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisZubairov&theme=dark&bg_color=0D1117&title_color=2f81f7&text_color=c9d1d9&hide_border=true" width="48%" alt="Most Used Languages" />
+</p>
+
+<br>
+
+---
+
 <div align="center">
   <h3>Contact with me</h3>
   <a href="https://t.me/RamaZubik">
