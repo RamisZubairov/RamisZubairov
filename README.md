@@ -8,7 +8,7 @@
 
 🎯 **Хочу стать backend-developer**. В ближайших планах — освоить базы данных (**PostgreSQL**), систему контроля версий (**Git**) и контейнеризацию с **Docker**.
 
-[Software Engineer '30 @ РТУ МИРЭА]([https://mirea.ru](https://priem.mirea.ru/guide-direction?direction_id=1207)](https://priem.mirea.ru/guide-direction?direction_id=1207))
+[Software Engineer '30 @ РТУ МИРЭА](https://priem.mirea.ru/guide-direction?direction_id=1207)
 
 <br clear="right"/>
 
